@@ -4,4 +4,4 @@ How to make a Report & Dashboard for Company officials to Track the team record,
 <br>
 find team improvement area
 <br>
-forcast the company target/achievement. 
+forecast the company targets/achievements. 
